@@ -1,5 +1,5 @@
-name: Tugas-alpro
-run-name: ${{ tugas.alpro }} is learning GitHub Actions
+name: tugas-alpro-paisal
+run-name: ${{ github.actor }} is learning GitHub Actions
 on: [push]
 jobs:
   check-bats-version:
